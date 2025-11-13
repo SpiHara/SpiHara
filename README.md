@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=1D4ED8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+<your-name>+%F0%9F%91%8B;Cognitive+Science+%26+Experimental+Psychology;Backend+%26+Web+Development;Always+learning+something+new+every+day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=1D4ED8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+<Hiroki Nasu>+%F0%9F%91%8B;Cognitive+Science+%26+Experimental+Psychology;Backend+%26+Web+Development;Always+learning+something+new+every+day" />
 </p>
 
 ---
