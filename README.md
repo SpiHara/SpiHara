@@ -55,22 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<Hiroki Nasu>&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<Hiroki Nasu>&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Hiroki Nasu>&layout=compact&theme=radical&hide=css,html" alt="Top Langs" />
-</p>
-
-<!-- Stats 系は反映に時間がかかることがあります -->
-
 ---
 
 ## 📂 Featured Projects
