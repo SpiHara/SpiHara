@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=1D4ED8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hiroki+Nasu+%F0%9F%91%8B;Cognitive+Science+%26+Experimental+Psychology;Backend+%26+Web+Development;Always+learning+something+new+every+day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=1D4ED8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hiroki+Nasu+%F0%9F%91%8B;Cognitive+Science+%26+Behavior+Prediction;Backend+%26+Web+Development;Always+learning+something+new+every+day" />
 </p>
 
 </p>
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-- 🧠 認知科学 / 実験心理まわりの研究・開発をしています  
+- 🧠 認知科学 / 行動予測まわりの研究・開発をしています  
 - 🧪 oTree・Qualtrics などを使った行動実験の構築が得意です  
 - 💻 Python / Django / JavaScript での Web アプリ・ツール開発もやります  
 - 🎓 「人 × AI」の判断・創造性・バイアスなどに興味があります  
