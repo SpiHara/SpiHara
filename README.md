@@ -97,10 +97,7 @@
   <a href="https://note.com/aubergine2160">
     <img src="https://img.shields.io/badge/note-41C9B4?logo=notion&logoColor=white&label=note" />
   </a>
-  <a href="https://x.com/<!-- your-x-id -->">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:your.mail@example.com">
+  <a href="mailto:nasu.hiroki.23@shizuoka.ac.jp">
     <img src="https://img.shields.io/badge/Email-374151?logo=gmail&logoColor=white" />
   </a>
 </p>
